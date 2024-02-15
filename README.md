@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-nithil" alt="mr-nithil" /></a> </p>
 
+- 📫 How to reach me **nithilsheshan@gmail.com**
+
+- 📄 Know about my experiences [https://www.canva.com/design/DAF83i59f9k/bQyKwt5tgka70lCBeJtL3A/edit?utm_content=DAF83i59f9k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF83i59f9k/bQyKwt5tgka70lCBeJtL3A/edit?utm_content=DAF83i59f9k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nithil sheshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nithil sheshan" height="30" width="40" /></a>
