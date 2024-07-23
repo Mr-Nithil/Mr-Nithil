@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm currently a Computer Engineering undergraduate from University of Ruhuna
+I'm currently working as an Software Engineering Intern @SixthFlow Research
 
 
 ## 🌐 Socials:
