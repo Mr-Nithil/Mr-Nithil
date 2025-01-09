@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Education: B.Sc.Eng. (Hons) in Computer Engineering, University of Ruhuna<br>💼 Previous Role: Software Engineering Intern @Sixthflow Research<br>🌱 Learning: Currently exploring on Mobile Development.<br>🎯 Goals: To make a difference in the World.<br>💬 Ask me about: Flutter | Kotlin.<br>📫 Reach me: nithilsheshan@gmail.com
+🎓 Education: B.Sc.Eng. (Hons) in Computer Engineering, University of Ruhuna<br>💼 Role: Working as a Freelance Mobile Developer<br>🌱 Learning: Currently exploring on Mobile Development.<br>🎯 Goals: To make a difference in the World.<br>💬 Ask me about: Flutter | Kotlin.<br>📫 Reach me: nithilsheshan@gmail.com
 
 
 ## 🌐 Socials:
