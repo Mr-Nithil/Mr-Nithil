@@ -54,11 +54,11 @@ PyTorch • scikit-learn • Pandas • NumPy • Matplotlib
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-nithil&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-nithil&show_icons=true&theme=tokyonight&cache_seconds=1800" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-nithil&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mr-nithil&theme=tokyonight&cache_seconds=1800" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-nithil&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-nithil&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -66,7 +66,7 @@ PyTorch • scikit-learn • Pandas • NumPy • Matplotlib
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mr-nithil&theme=radical&no-frame=true&margin-w=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mr-nithil&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
 </p>
 
 ---
