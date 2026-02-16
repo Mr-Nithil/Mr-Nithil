@@ -8,9 +8,9 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working as a **Software Engineer** and **Freelance Mobile Developer**
+- 🔭 **Software Engineer** and **Freelance Mobile Developer**
 - 🌱 Learning & building with **.NET, Node.js, React, Flutter**
-- 📱 Interested in **Full-Stack + Mobile App Development**
+- 📱 Passionate about **Full-Stack + Mobile App Development**
 - 🎯 Goal: *Use technology to make a meaningful impact in the world*
 - 💬 Ask me about **Web & Mobile Development**
 - 📫 Reach me at: **nithilsheshan@gmail.com**
@@ -54,35 +54,11 @@ PyTorch • scikit-learn • Pandas • NumPy • Matplotlib
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-nithil&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mr-nithil&theme=tokyonight&cache_seconds=1800" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-nithil&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-nithil&show_icons=true&theme=default" />
 </p>
 
----
-
-## 🏆 Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mr-nithil&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
-</p>
-
----
-
-## ✍️ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mr-nithil/mr-nithil/output/snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-nithil&layout=compact&theme=default" />
 </p>
 
 ---
