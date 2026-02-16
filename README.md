@@ -54,15 +54,19 @@ PyTorch • scikit-learn • Pandas • NumPy • Matplotlib
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-nithil&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-nithil&show_icons=true&theme=dark" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-nithil&theme=dark" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-nithil&layout=compact&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-nithil" />
-</p>
+---
+
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-nithil&layout=compact" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mr-nithil&theme=radical&no-frame=true&margin-w=8"/>
 </p>
 
 ---
