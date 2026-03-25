@@ -1,37 +1,36 @@
 # 👋 Hi, I'm Nithil Sheshan
 
-💻 **Software Engineer | Freelance Mobile Developer**  
+💻 Mobile Engineer | Full-Stack Developer  
 🎓 B.Sc.Eng. (Hons) in Computer Engineering  
-🌍 Passionate about building impactful web & mobile solutions  
+🌍 Building scalable web & mobile solutions with real-world impact  
 
 ---
 
-## 🚀 About Me
+## 🚀 Professional Summary
 
-- 🔭 **Software Engineer** and **Freelance Mobile Developer**
-- 🌱 Learning & building with **.NET, Node.js, React, Flutter**
-- 📱 Passionate about **Full-Stack + Mobile App Development**
-- 🎯 Goal: *Use technology to make a meaningful impact in the world*
-- 💬 Ask me about **Web & Mobile Development**
-- 📫 Reach me at: **nithilsheshan@gmail.com**
+Mobile Engineer with hands-on experience in developing cross-platform mobile applications and full-stack systems. Passionate about designing clean architectures, building scalable solutions, and continuously improving through modern technologies and best practices.
+
+I enjoy working across the stack—from mobile interfaces to backend services—delivering efficient and user-focused applications.
 
 ---
 
-## 🌐 Connect With Me
+## 🧠 Core Competencies
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Nithil.Sheshan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nishe_2.0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nithil-sheshan-4a3945210)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nithilsheshan)
+- Mobile Application Development (Flutter, Kotlin)
+- Full-Stack Development (.NET, Node.js, React)
+- RESTful API Design & Integration
+- Clean Architecture & State Management
+- Database Design & Management
+- Problem Solving & System Thinking
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-C • C# • C++ • Dart • Python • Kotlin • JavaScript • HTML/CSS  
+C • C# • C++ • Dart • Python • Kotlin • JavaScript • HTML • CSS  
 
-### 🌐 Web & Frameworks
+### 🌐 Frameworks & Platforms
 .NET • ASP.NET Core • Blazor • Node.js • React • Bootstrap • Astro  
 
 ### 📱 Mobile
@@ -43,11 +42,31 @@ PostgreSQL • MySQL • SQL Server • MongoDB • Firebase
 ### ⚙️ DevOps & Tools
 Docker • Kubernetes • Terraform • Jenkins • GitHub Actions • Ansible • Git  
 
-### 🎨 Design
+### 🎨 Design Tools
 Figma • Canva • Adobe XD • Photoshop • Illustrator • InDesign  
 
-### 🤖 AI / Data
+### 🤖 Data & AI
 PyTorch • scikit-learn • Pandas • NumPy • Matplotlib  
+
+---
+
+## 🎯 Interests
+
+- Mobile & cross-platform development  
+- Scalable backend systems  
+- Clean architecture & software design patterns  
+- Performance optimization  
+- Building impactful real-world applications  
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: **nithilsheshan@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/nithil-sheshan-4a3945210  
+- 🌍 Facebook: https://facebook.com/Nithil.Sheshan  
+- 📸 Instagram: https://instagram.com/nishe_2.0  
+- ✍️ Medium: https://medium.com/@nithilsheshan  
 
 ---
 
@@ -71,4 +90,4 @@ PyTorch • scikit-learn • Pandas • NumPy • Matplotlib
 
 ---
 
-⭐️ *Always learning. Always building.*
+⭐️ Always learning. Always building. Always improving.
