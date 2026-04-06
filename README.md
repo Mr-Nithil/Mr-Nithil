@@ -1,32 +1,32 @@
 # 👋 Hi, I'm Nithil Sheshan
 
 <p align="center">
-  <b>Flutter Mobile Engineer | Full-Stack Developer</b><br/>
+  <b>Mobile Engineer | Flutter Developer</b><br/>
   B.Sc.Eng. (Hons) in Computer Engineering – University of Ruhuna<br/>
-  📱 Building scalable mobile applications and backend systems
+  📱 Building scalable mobile applications with robust backend support
 </p>
 
 ---
 
 # 🚀 About Me
 
-I am a **Flutter Mobile Engineer** with hands-on experience building **production-level mobile applications** involving QR-based payments, geolocation services, Bluetooth integrations, and scalable RESTful backend systems.
+I am a **Mobile Engineer specializing in Flutter** with hands-on experience building **production-level mobile applications** involving QR-based payments, geolocation services, Bluetooth integrations, and real-time API-driven systems.
 
-I enjoy building **clean, maintainable software architectures** and developing end-to-end solutions — from mobile interfaces to backend APIs.
+I focus on building **scalable, clean, and maintainable mobile architectures**, following best practices such as Clean Architecture and effective state management.
 
-My primary focus is **cross-platform mobile development with Flutter**, while also working with **modern backend technologies such as .NET and Node.js** to build scalable full-stack systems.
+While my primary strength is **cross-platform mobile development**, I also have experience in **backend development using .NET**, allowing me to build complete end-to-end systems that power modern mobile applications.
 
 ---
 
 # 🧠 Core Expertise
 
 - 📱 Cross-Platform Mobile Development (Flutter)
-- 🏗 Mobile Architecture & State Management (Bloc, Provider)
-- 🔗 RESTful API Design & Integration
-- ⚙️ Backend Development (.NET Core, Node.js)
+- 🏗 Mobile Architecture & State Management (Bloc, Provider, Riverpod)
+- 🔗 RESTful API Integration
+- ⚙️ Backend Development (.NET Core)
 - 🗄 Database Design & Optimization
-- 🐳 Containerization & Deployment with Docker
-- 🧩 Microservices & Clean Architecture
+- 🐳 Containerization with Docker
+- 🧩 Clean Architecture & Scalable Systems
 
 ---
 
@@ -39,7 +39,7 @@ C# • JavaScript • Python • SQL • Dart • HTML • CSS
 Flutter • Dart • Kotlin • Jetpack Compose
 
 ### Backend
-ASP.NET Core • Node.js • Express.js • REST APIs
+ASP.NET Core • Node.js • REST APIs
 
 ### Databases
 PostgreSQL • MySQL • MongoDB • SQLite • Firebase
@@ -61,19 +61,19 @@ JWT Authentication • Microservices Architecture • Figma
 Built Flutter applications supporting **QR-based payment flows and banking integrations** with real-time API communication.
 
 ### Geolocation & Proximity Systems
-Implemented **geolocation-based station detection** and **Bluetooth beacon-based proximity notifications** for mobile applications.
+Implemented **geolocation-based features** and **Bluetooth-based proximity systems** for real-world mobile applications.
 
-### Microservices Reservation Platform
-Architected a **microservices-based stall reservation platform** with API Gateway, authentication services, and containerized deployments using Docker.
+### Railway Ticket Verification System
+Developed a Flutter application for **real-time QR-based ticket verification with fraud detection**, integrating backend services and ensuring reliability in operational environments.
 
 ### Full Stack Task Management Platform *(Ongoing)*
-Developing a **complete task management system** with:
+Developing a scalable system with:
 
-- ASP.NET Core backend
-- PostgreSQL database
-- Flutter mobile client
-- React web client
-- Dockerized deployment
+- ASP.NET Core backend  
+- PostgreSQL database  
+- Flutter mobile client  
+- React web client  
+- Dockerized deployment  
 
 ---
 
@@ -118,5 +118,5 @@ https://medium.com/@nithilsheshan
 ---
 
 <p align="center">
-⭐ <i>Passionate about building scalable mobile applications and impactful software systems.</i>
+⭐ <i>Focused on building scalable, high-quality mobile applications.</i>
 </p>
