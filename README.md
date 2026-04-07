@@ -16,6 +16,8 @@ I focus on building **scalable, clean, and maintainable mobile architectures**, 
 
 While my primary strength is **cross-platform mobile development**, I also have experience in **backend development using .NET**, allowing me to build complete end-to-end systems that power modern mobile applications.
 
+🌐 **Portfolio:** https://mr-nithil.github.io/Portfolio/
+
 ---
 
 # 🧠 Core Expertise
@@ -100,6 +102,9 @@ Developing a scalable system with:
 # 🌐 Connect With Me
 
 <p align="center">
+
+🌐 **Portfolio**  
+https://mr-nithil.github.io/Portfolio/  
 
 📧 **Email**  
 nithilsheshan@gmail.com  
