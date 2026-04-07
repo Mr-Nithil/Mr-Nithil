@@ -14,7 +14,7 @@ I am a **Mobile Engineer specializing in Flutter** with hands-on experience buil
 
 I focus on building **scalable, clean, and maintainable mobile architectures**, following best practices such as Clean Architecture and effective state management.
 
-While my primary strength is **cross-platform mobile development**, I also have experience in **backend development using .NET**, allowing me to build complete end-to-end systems that power modern mobile applications.
+While my primary strength is **cross-platform mobile development**, I also have experience in **backend development using .NET & Node.js**, allowing me to build complete end-to-end systems that power modern mobile applications.
 
 🌐 **Portfolio:** https://mr-nithil.github.io/Portfolio/
 
@@ -25,7 +25,7 @@ While my primary strength is **cross-platform mobile development**, I also have 
 - 📱 Cross-Platform Mobile Development (Flutter)
 - 🏗 Mobile Architecture & State Management (Bloc, Provider, Riverpod)
 - 🔗 RESTful API Integration
-- ⚙️ Backend Development (.NET Core)
+- ⚙️ Backend Development (.NET Core & Node.js)
 - 🗄 Database Design & Optimization
 - 🐳 Containerization with Docker
 - 🧩 Clean Architecture & Scalable Systems
