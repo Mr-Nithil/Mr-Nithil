@@ -84,9 +84,10 @@ Developing a scalable system with:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mr-nithil&theme=tokyonight" />
   <br/><br/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-nithil&theme=tokyonight" />
+   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-nithil&theme=tokyonight" /> -->
+  <img width="60%" src="https://github-readme-streak-stat-two.vercel.app/?user=mr-nithil&theme=tokyonight"/>
   <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-nithil&theme=tokyonight" />
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-nithil&theme=tokyonight" />
 </p>
 
 ---
